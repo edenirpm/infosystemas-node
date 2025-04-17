@@ -43,6 +43,7 @@ O servidor estará rodando em: [http://localhost:3000](http://localhost:3000)
 ```url
 http://localhost:3000/docs
 ```
+<img width="1401" alt="Captura de Tela 2025-04-17 às 02 47 07" src="https://github.com/user-attachments/assets/c300a401-1f10-4ea7-af12-e740f4f20e51" />
 
 ---
 ### 5. Testes unitários
