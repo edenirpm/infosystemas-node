@@ -21,7 +21,7 @@ Esta é uma API RESTful para gerenciamento de veículos com persistência em arq
 ### 1. Clonar o repositório ou extrair o ZIP
 
 ```bash
-cd api-veiculos-swagger-funcional
+cd api-veiculos-swagger
 ```
 
 ### 2. Instalar dependências
@@ -76,7 +76,7 @@ src/
 ├── data/
 │   └── vehicles.json
 ├── tests/
-│   └── vehicle.test.js (opcional)
+│   └── vehicle.test.js 
 ```
 
 ---
@@ -91,7 +91,7 @@ npm install
 ```
 
 ---
-
+Para rodar o teste utilize npm test
 ## ✍️ Autor
 
 Edenir Pereira Martins
