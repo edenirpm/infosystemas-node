@@ -21,7 +21,7 @@ Esta é uma API RESTful para gerenciamento de veículos com persistência em arq
 ### 1. Clonar o repositório ou extrair o ZIP
 
 ```bash
-cd api-veiculos-swagger
+cd infosystemas-node-main
 ```
 
 ### 2. Instalar dependências
@@ -45,6 +45,8 @@ http://localhost:3000/docs
 ```
 
 ---
+### 5. Testes unitários
+Para rodar o teste utilize npm test
 
 ## 🔀 Endpoints da API
 
